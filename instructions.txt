@@ -1,0 +1,5 @@
+- Lire le fichier ppm. 
+-> Transformer sous forme matricielle
+- Chaque point de cordonnées (x,y) peut être modifié en une droite d'equations (1) et (2)
+-> Effectuer la transformation de Hough 3.1 sur l'ensemble des points de la matrice
+-> On obtient alors un "buffer d'accumulation", un tableau 2D qui contient l'ensemble des droites associées
